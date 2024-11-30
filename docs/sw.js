@@ -44,7 +44,7 @@ if (workbox) {
   },
   {
     "url": "docs.css",
-    "revision": "98c6b53de43eb4c1231223d7c40c268b"
+    "revision": "4f4736cd3f4b3492c9e7d7dce28cce8c"
   },
   {
     "url": "docs.html",
@@ -240,7 +240,7 @@ if (workbox) {
   },
   {
     "url": "variables.html",
-    "revision": "2234587f5801360c15bd02121851a3b6"
+    "revision": "157d6b4cc059ae262ec6a53c43fa188a"
   }
 ]);
 
