@@ -164,7 +164,7 @@ if (workbox) {
   },
   {
     "url": "index.html",
-    "revision": "594b0c92f226ca09b1aefeaa42875262"
+    "revision": "61944b1fe64e14ee599265c3a42e4254"
   },
   {
     "url": "layout.html",
