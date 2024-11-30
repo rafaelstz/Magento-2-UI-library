@@ -1,0 +1,22 @@
+{
+    "name": "Magento UI Library",
+    "short_name": "Magento UI",
+    "description": "A flexible modular Magento frontend library that is designed to assist Magento theme developers",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#1a7a80",
+    "background_color": "#ffffff",
+    "start_url": "/index.html",
+    "scope": "/"
+}

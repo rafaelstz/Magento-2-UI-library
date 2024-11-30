@@ -1,0 +1,57 @@
+.bar.top {
+    background: #1a7a80;
+    box-shadow: none;
+}
+
+body {
+    background: #23989e;
+}
+
+.bar.bottom {background: #107a80;box-shadow: none;}
+
+.brand, a.brand, a.brand:visited {
+    color: white;
+    text-shadow: none;
+    font-size: 18px;
+}
+
+.nav input[type="search"], .nav input[type="search"]:focus {
+    padding: 5px 10px;
+    border-radius: 0;
+    box-shadow: none;
+    background: white;
+    border: none;
+    color: black;
+    width: 200px;
+    font-size: 14px;
+}
+
+.bar button {
+}
+
+.bar, .bar a, .bar a:visited {
+    color: white;
+    text-shadow: none;
+    font-size: 16px;
+}
+
+.bar a:hover, .bar a.is-active {
+    text-shadow: none;
+    color: #b0e1e4;
+}
+
+.nav-results, .dropdown {
+    background: #24989e;
+}
+
+.bar li li {
+    padding: 6px;
+}
+
+.dropdown li:hover {
+    background-color: #1a7a80;
+}
+
+h1, h2, h3 {
+    color: #1a7a80;
+}
